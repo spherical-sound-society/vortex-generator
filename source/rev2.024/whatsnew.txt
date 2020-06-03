@@ -1,3 +1,12 @@
+To update the firmware, connect your Vortex Generator to the USB port and upload the .hex file via
+
+Windows: xloader
+Mac: ...
+
+
+
+What´s new
+
 Cleaned source code and added comments in english
 Code optimized to run faster, so the envelope/LFO goes to higher speeds
 Added a second Rungling mode, that you have to manually activate and compile for it to run
